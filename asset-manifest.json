@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react_props_assignment2/static/css/main.82ee7511.css",
+    "main.js": "/react_props_assignment2/static/js/main.0599069b.js",
+    "static/js/787.5dab627f.chunk.js": "/react_props_assignment2/static/js/787.5dab627f.chunk.js",
+    "static/media/bright.jpg": "/react_props_assignment2/static/media/bright.f888f0a3f0560aecdd74.jpg",
+    "static/media/rider.jpg": "/react_props_assignment2/static/media/rider.dddf4bc54f4b71eac68d.jpg",
+    "static/media/img.jpg": "/react_props_assignment2/static/media/img.b62239aa65b3315fc23c.jpg",
+    "static/media/rid.jpg": "/react_props_assignment2/static/media/rid.805e53112eced1d1eb27.jpg",
+    "index.html": "/react_props_assignment2/index.html",
+    "main.82ee7511.css.map": "/react_props_assignment2/static/css/main.82ee7511.css.map",
+    "main.0599069b.js.map": "/react_props_assignment2/static/js/main.0599069b.js.map",
+    "787.5dab627f.chunk.js.map": "/react_props_assignment2/static/js/787.5dab627f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82ee7511.css",
+    "static/js/main.0599069b.js"
+  ]
+}
